@@ -9,8 +9,8 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Nice to meet you, ',
-  name: 'I am Gearóid ',
+  title: 'Nice to meet you, I am ',
+  name: 'Gearóid ',
   subtitle: 'UX/UI designer',
   cta: '',
 };
@@ -18,7 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'cactus_joe2.jpg',
-  paragraphOne: 'I am a UI/UX designer who enjoys programming. I take a moment to think about the customer’s needs and wishes. I push toward going beyond the customers’ requirements, reminding myself what we are here to achieve. I believe that with great user design comes simplistic use and effective security. I have education in both design and security I am equipped to execute my vision.',
+  paragraphOne:
+    'I am a UI/UX designer who enjoys programming. I take a moment to think about the customer’s needs and wishes. I push toward going beyond the customers’ requirements, reminding myself what we are here to achieve. I believe that with great user design comes simplistic use and effective security. I have education in both design and security I am equipped to execute my vision.',
   paragraphTwo: 'I want to keep my skills up by programming and learnign new methods',
   paragraphThree: 'If you need more information please contact me.',
   resume: 'https://gearoid76.github.io/Gearoid76.github.io/index_resume.html', // if no resume, the button will not show up
