@@ -38,7 +38,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'pia.jpg',
+    img: 'pia-bg.png',
     title: 'Pia',
     info:
       'Pia is a calander app that would organise your classes to best fit your schedule, this would make sure that no classes would be overlapping',
