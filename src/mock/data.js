@@ -30,7 +30,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Front.jpg',
-    title: 'Enviormental game',
+    title: 'Enviornmental game',
     info: 'Help Cal survive in the future by helping animals and saving the enviorment',
     info2: '',
     url: 'https://gearoid76.github.io/Gearoid76.github.io/Index_Portfolio.html',
@@ -41,7 +41,7 @@ export const projectsData = [
     img: 'pia-bg.png',
     title: 'Pia',
     info:
-      'Pia is a calander app that would organise your classes to best fit your schedule, this would make sure that no classes would be overlapping',
+      'Pia is a calender app that would organise your classes to best fit your schedule, this would make sure that no classes would be overlapping',
     info2: '',
     url: 'https://gearoid76.github.io/Gearoid76.github.io/index_pia.html',
     repo: '', // if no repo, the button will not show up
