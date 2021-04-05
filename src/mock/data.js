@@ -33,7 +33,7 @@ export const projectsData = [
     title: 'Enviornmental game',
     info: 'Help Cal survive in the future by helping animals and saving the enviorment',
     info2: '',
-    url: 'https://gearoid76.github.io/',
+    url: 'https://gearoid76.github.io/index_ProjectPristine.html',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -43,7 +43,7 @@ export const projectsData = [
     info:
       'Pia is a calender app that would organise your classes to best fit your schedule, this would make sure that no classes would be overlapping',
     info2: '',
-    url: 'https://gearoid76.github.io/Gearoid76.github.io/index_pia.html',
+    url: 'https://gearoid76.github.io/index_pia.html',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -52,7 +52,7 @@ export const projectsData = [
     title: 'Project pristine',
     info: 'This was a game that used nature to determine if you lived or died',
     info2: 'By choosing the correct rather than the fastest way to create power',
-    url: 'https://gearoid76.github.io/Gearoid76.github.io/index_ProjectPristine.html',
+    url: 'https://gearoid76.github.io/index_ProjectPristine.html',
     repo: '', // if no repo, the button will not show up
   },
 ];
