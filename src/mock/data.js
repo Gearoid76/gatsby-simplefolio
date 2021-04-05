@@ -22,7 +22,7 @@ export const aboutData = {
     'I am a UI/UX designer who enjoys programming. I take a moment to think about the customer’s needs and wishes. I push toward going beyond the customers’ requirements, reminding myself what we are here to achieve. I believe that with great user design comes simplistic use and effective security. I have education in both design and security I am equipped to execute my vision.',
   paragraphTwo: 'I want to keep my skills up by programming and learnign new methods',
   paragraphThree: 'If you need more information please contact me.',
-  resume: 'https://gearoid76.github.io/Gearoid76.github.io/index_resume.html', // if no resume, the button will not show up
+  resume: 'https://gearoid76.github.io/index_resume.html', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -33,7 +33,7 @@ export const projectsData = [
     title: 'Enviornmental game',
     info: 'Help Cal survive in the future by helping animals and saving the enviorment',
     info2: '',
-    url: 'https://gearoid76.github.io/Gearoid76.github.io/Index_Portfolio.html',
+    url: 'https://gearoid76.github.io/',
     repo: '', // if no repo, the button will not show up
   },
   {
