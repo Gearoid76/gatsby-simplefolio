@@ -32,7 +32,7 @@ export const projectsData = [
     img: 'Front.jpg',
     title: 'Enviornmental game',
     info: 'Help Cal survive in the future by helping animals and saving the enviorment',
-    info2: '',
+    info2: 'Here I was a part of the sales team along with creating the story in which it was set.',
     url: 'https://gearoid76.github.io/index_ProjectPristine.html',
     repo: '', // if no repo, the button will not show up
   },
@@ -42,7 +42,8 @@ export const projectsData = [
     title: 'Pia',
     info:
       'Pia is a calender app that would organise your classes to best fit your schedule, this would make sure that no classes would be overlapping',
-    info2: '',
+    info2:
+      'As a team of three, we got to design develop and execute this project, we all did alittle bit of everything. From swapping ideas on how it should look to the final look at the end. ',
     url: 'https://gearoid76.github.io/index_pia.html',
     repo: '', // if no repo, the button will not show up
   },
@@ -50,8 +51,10 @@ export const projectsData = [
     id: nanoid(),
     img: '55games.jpg',
     title: 'Project pristine',
-    info: 'This was a game that used nature to determine if you lived or died',
-    info2: 'By choosing the correct rather than the fastest way to create power',
+    info:
+      'This was a game that used nature to determine if you lived or died By choosing the correct rather than the fastest way to create power',
+    info2:
+      'Here I was a part of the Marketing team, as this was my first project in the UI/UX world long with the first project in the games industry.',
     url: 'https://gearoid76.github.io/index_ProjectPristine.html',
     repo: '', // if no repo, the button will not show up
   },
