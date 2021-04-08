@@ -52,7 +52,7 @@ export const projectsData = [
     img: '55games.jpg',
     title: 'Project pristine',
     info:
-      'This was a game that used nature to determine if you lived or died By choosing the correct rather than the fastest way to create power.',
+      'This was a game that used nature to determine if you lived or died. By choosing the correct rather than the fastest way to create power.',
     info2:
       'Here I was a part of the Marketing team, as this was my first project in the UI/UX world long with the first project in the games industry.',
     url: 'https://gearoid76.github.io/index_ProjectPristine.html',
