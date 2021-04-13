@@ -43,7 +43,7 @@ export const projectsData = [
     info:
       'Pia is a calender app that would organise your classes to best fit your schedule, this would make sure that no classes would be overlapping.',
     info2:
-      'As a team of three, we got to design develop and execute this project, we all did a little bit of everything. From swapping ideas on how it should look to the final look at the end. ',
+      'As a design of three, we did the 1)Overview - this was an app to help improve the scheduling of students studylife  2) Analysing user data - we analised ourselves and classmates on what was their problems 3) Creating personas we assumed, that they were all students some looking for classes to fill their schedule  4) Ideation - we figured that by research planning it around a calendar would be the best option 5) Creating storyboards ',
     url: 'https://gearoid76.github.io/index_pia.html',
     repo: '', // if no repo, the button will not show up
   },
