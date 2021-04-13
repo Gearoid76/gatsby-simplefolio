@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Nice to meet you, I am ',
   name: 'Gearóid ',
-  subtitle: 'UX/UI designer',
+  subtitle: 'UI/UX designer',
   cta: '',
 };
 
@@ -33,7 +33,7 @@ export const projectsData = [
     title: 'Enviornmental game',
     info: 'Help Cal survive in the future by helping animals and saving the enviorment.',
     info2: 'Here I was a part of the sales team along with creating the story in which it was set.',
-    url: 'https://gearoid76.github.io/index_ProjectPristine.html',
+    url: 'https://gearoid76.github.io/index_EnvGame.html',
     repo: '', // if no repo, the button will not show up
   },
   {
