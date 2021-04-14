@@ -29,22 +29,22 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'Front.jpg',
-    title: 'Enviornmental game',
-    info: 'Help Cal survive in the future by helping animals and saving the enviorment.',
-    info2: 'Here I was a part of the sales team along with creating the story in which it was set.',
-    url: 'https://gearoid76.github.io/index_EnvGame.html',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'pia-bg.png',
     title: 'Pia',
     info:
       'Pia is a calender app that would organise your classes to best fit your schedule, this would make sure that no classes would be overlapping.',
     info2:
       'As a design of three, we did the 1)Overview - this was an app to help improve the scheduling of students studylife  2) Analysing user data - we analised ourselves and classmates on what was their problems 3) Creating personas - we assumed, that they were all students some looking for classes to fill their schedule  4) Ideation - we figured that by research planning it around a calendar would be the best option 5) Creating storyboards - we had a scenario where students and freetime and wanted to put some class in. ',
-    url: 'https://gearoid76.github.io/index_pia.html',
+    url: 'https://gearoid76.github.io/index_peppi.html',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Front.jpg',
+    title: 'Enviornmental game',
+    info: 'Help Cal survive in the future by helping animals and saving the enviorment.',
+    info2: 'Here I was a part of the sales team along with creating the story in which it was set.',
+    url: 'https://gearoid76.github.io/index_EnvGame.html',
     repo: '', // if no repo, the button will not show up
   },
   {
