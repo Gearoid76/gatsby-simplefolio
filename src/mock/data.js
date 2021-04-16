@@ -34,7 +34,7 @@ export const projectsData = [
     info:
       'Pia is a calender app that would organise your classes to best fit your schedule, this would make sure that no classes would be overlapping.',
     info2:
-      'As a design of three, we did the 1)Overview - this was an app to help improve the scheduling of students studylife  2) Analysing user data - we analised ourselves and classmates on what was their problems 3) Creating personas - we assumed, that they were all students some looking for classes to fill their schedule  4) Ideation - we figured that by research planning it around a calendar would be the best option 5) Creating storyboards - we had a scenario where students and freetime and wanted to put some class in. ',
+      'As a design team of three, we did the 1)Overview - this was an app to help improve the scheduling of students study life 2) Analyzing user data - we analyzed ourselves and classmates on what was their problems 3) Creating personas - we assumed, that they were all students some looking for classes to fill their schedule 4) Ideation - we figured that by research planning it around a calendar would be the best option 5) Creating storyboards - we had a scenario where students and free time and wanted to put some class in.',
     url: 'https://gearoid76.github.io/index_peppi.html',
     repo: '', // if no repo, the button will not show up
   },
