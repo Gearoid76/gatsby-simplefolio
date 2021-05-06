@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'cactus_joe2.jpg',
   paragraphOne:
-    'I am a UI/UX designer who enjoys programming. I take a moment to think about the customer’s needs and wishes. I push toward going beyond the customers’ requirements, reminding myself what we are here to achieve. I believe that with great user design comes simplistic use and effective security. I have education in both design and security I am equipped to execute my vision.',
+    'I am a UI/UX designer who enjoys programming. I take a moment to think about the customer’s needs and wishes. I push toward going beyond the customers’ requirements, reminding myself what we are here to achieve. I believe that with great user design comes simplistic use and effective security. I have an education in both design and security I am equipped to execute my vision.',
   paragraphTwo: 'I want to keep my skills up by programming and learning new methods.',
   paragraphThree: 'If you need more information please contact me.',
   resume: 'https://gearoid76.github.io/index_resume.html', // if no resume, the button will not show up
@@ -32,7 +32,7 @@ export const projectsData = [
     img: 'pia-bg.png',
     title: 'Pia',
     info:
-      'Pia is a calender app that would organise your classes to best fit your schedule, this would make sure that no classes would be overlapping.',
+      'Pia is a calendar app that would organise your classes to best fit your schedule, this would make sure that no classes would be overlapping.',
     info2:
       'As a design team of three, we did the 1)Overview - this was an app to help improve the scheduling of students study life 2) Analyzing user data - we analyzed ourselves and classmates on what was their problems 3) Creating personas - we assumed, that they were all students some looking for classes to fill their schedule 4) Ideation - we figured that by research planning it around a calendar would be the best option 5) Creating storyboards - we had a scenario where students and free time and wanted to put some class in.',
     url: 'https://gearoid76.github.io/index_peppi.html',
@@ -41,7 +41,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Front.jpg',
-    title: 'Enviornmental game',
+    title: 'Environmental game',
     info: 'Help Cal survive in the future by helping animals and saving the enviorment.',
     info2: 'Here I was a part of the sales team along with creating the story in which it was set.',
     url: 'https://gearoid76.github.io/index_EnvGame.html',
