@@ -4,14 +4,14 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Gearóid O Ceallacháin', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'UI/UX designer looking for work', // e.g: Welcome to my website
+  description: 'I.T. Graduate looking for UI/UX design work', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: 'Nice to meet you, I am ',
   name: 'Gearóid ',
-  subtitle: 'UI/UX designer',
+  subtitle: 'Graduate leaning towards UI/UX',
   cta: '',
 };
 
