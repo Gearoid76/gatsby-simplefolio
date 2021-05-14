@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'cactus_joe2.jpg',
   paragraphOne:
-    'I am Graduate leaning towards UI/UX who enjoys programming. I take a moment to think about the customer’s needs and wishes. I push toward going beyond the customers’ requirements, reminding myself what we are here to achieve. I believe that with great user design comes simplistic use and effective security. I have an education in both design and security I am equipped to execute my vision.',
+    'I am an IT Graduate leaning towards UI/UX who enjoys programming. I take a moment to think about the customer’s needs and wishes. I push toward going beyond the customers’ requirements, reminding myself what we are here to achieve. I believe that with great user design comes simplistic use and effective security. I have an education in both design and security I am equipped to execute my vision.',
   paragraphTwo: 'I want to keep my skills up by programming and learning new methods.',
   paragraphThree: 'If you need more information please contact me.',
   resume: 'https://gearoid76.github.io/index_resume.html', // if no resume, the button will not show up
